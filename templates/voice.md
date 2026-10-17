@@ -1,67 +1,61 @@
-# voice.md
+# Your Instagram Voice
 
-Copy this to `~/.claude/instagram/voice.md` and fill it in. Every skill in the
-pack reads it. Ten minutes here is the difference between scripts you shoot and
-scripts you rewrite.
+## About You
+**Who are you (one sentence)?**
+Linux enthusiast and hobbyist developer building automation tools
 
-If you would rather not fill it in by hand, send Claude three of your own reels
-or captions and say "write my voice.md from these". That works better than
-guessing at the answers.
+**What do you do?**
+Build personal automation tools, tinker with hardware/software, share what you learn
 
-This file matters more on Instagram than anywhere else, because you have to say
-the words out loud. A line you would never say is not a draft, it is a retake.
+**Who are you talking to?**
+Other developers and tech enthusiasts interested in hands-on tinkering
+
+## Your Tone
+**How do you sound? Pick 3-5 words:**
+- Direct
+- Practical
+- Curious
+- No-nonsense
+- Honest about limitations
+
+**How do you NOT sound:**
+- Hype-y or salesy
+- Overly formal or academic
+- Clickbait-y
+- Over-explaining basic stuff
+
+## Your Vocabulary
+**Words/phrases you actually use (examples):**
+- "I built"
+- "here's what I learned"
+- "got this working"
+- "worth the time?"
+- "still figuring this out"
+
+**Words/phrases you NEVER use:**
+- "you won't believe"
+- "stop scrolling"
+- "follow for more"
+- "this will change your life"
+- Unnecessary emojis
+
+## Your Values
+**What matters to you in content:**
+- Showing the actual process, not just the result
+- Being honest about what didn't work
+- Practical tools people can use
+- Learning in public
+
+## Your Style
+**How you structure posts:**
+- Problem → Solution → What I learned
+- Code or technical content
+- One main idea per post
+- Concrete examples
+
+**Example of your voice (a post you'd write):**
+Built an auto-draw bot for Roblox yesterday. Took longer than expected because X, but now it's doing Y. If you hit Z, here's the workaround.
 
 ---
 
-## Who I am
-
-- **Name:**
-- **Handle:**
-- **What I do, in one sentence:**
-- **Who I am talking to:** (be specific: "photographers charging under $2,000",
-  not "creatives")
-- **What I sell:**
-
-## What I sound like
-
-- **Three of my own reels or captions that sound most like me:** (paste them)
-- **On camera I am:** (fast and loud / dry / calm / funny / deadpan)
-- **Words I actually use:**
-- **Words I would never say out loud:**
-- **Do I swear:** (yes / mild / no)
-- **Emoji in captions:** (never / one, rarely / freely)
-- **Face on camera:** (always / sometimes / faceless)
-- **Voiceover or to-camera:**
-- **Pace:** (words per minute, if you have timed yourself reading a script.
-  `beats.py --wpm` uses this. Most people are between 150 and 200.)
-
-## My positions
-
-Three to five things I believe that some of my audience does not. These are
-where the good reels come from.
-
-1.
-2.
-3.
-
-## Off limits
-
-- **Topics I do not post about:**
-- **Clients, numbers or names I cannot say publicly:**
-- **Claims I am not allowed to make:** (regulated industry, employer policy, NDA)
-
-## Proof I can use
-
-Real numbers, outcomes and stories I am happy to put my name on. The skills will
-never invent one, so if this section is empty, every draft comes back with
-`{{your number}}` in it.
-
--
--
--
-
-## The ask
-
-- **My keyword CTA, if I use one:** (one word, sayable, no spaces)
-- **What the keyword sends them:**
-- **Where my link goes:**
+**Fill this in with YOUR actual voice, tone, and examples, then save it and share it back.**
